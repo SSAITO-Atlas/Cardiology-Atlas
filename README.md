@@ -3,5 +3,6 @@
 
  + ***2020/May/18スタート***
  + この文章は Cardiology Atlasの下書きです
- + 
+ + まずはgithubに登録しました
+ 
 https://qiita.com/tbpgr/items/989c6badefff69377da7
