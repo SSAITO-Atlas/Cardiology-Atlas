@@ -1,2 +1,7 @@
-# Cardiology-Atlas
-湘南鎌倉総合病院循環器内科が作成するInterventional Cardiology Atlasです
+# KAMAKURA-CARDIOLOGY
+## 湘南鎌倉総合病院循環器内科
+
+ + ***2020/May/18スタート***
+ + この文章は Cardiology Atlasの下書きです
+ + 
+https://qiita.com/tbpgr/items/989c6badefff69377da7
