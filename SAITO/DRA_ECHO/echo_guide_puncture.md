@@ -14,4 +14,4 @@
 
 遠位橈骨動脈は非常に柔軟な動脈なので、容易に針先により押しつぶされるが、針先が動脈の中心を捉えていなければ、動脈の片側(この例では右側)がより圧迫されると共に、よく見ると針先の高輝度反射部分が動脈内腔より外れて見える(矢印白、矢印黒は針の後側のシャドーです)。
 
-![needle_left](/Users/transradial/Documents/Cardiology-Atlas/SAITO/DRA_ECHO/imgs/needle_left.png)
+![穿刺針が橈骨動脈の左側にずれている](https://github.com/SSAITO-Atlas/Cardiology-Atlas/blob/master/SAITO/DRA_ECHO/imgs/needle_left.png)
