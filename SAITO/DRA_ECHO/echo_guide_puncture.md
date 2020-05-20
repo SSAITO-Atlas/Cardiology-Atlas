@@ -8,8 +8,8 @@
 
 しかし遠位橈骨動脈の内径はこれらの動静脈と比べて格段に細く、その内径は2.0mm程度しか無い。しかも、遠位橈骨動脈は大腿動脈に比しても柔軟性があり、穿刺針の圧力で容易に押され、その内腔が潰れてしまう。また、遠位橈骨動脈穿刺に用いる穿刺針は21G以下の細い針であり、当然のことながら針先による超音波乱反射は、太い動静脈で用いられる18Gの穿刺針に比べて少ないため、エコー画面で針先を認識することははるかに難しい。
 
-![DRAcompression01](/Users/transradial/Documents/Cardiology-Atlas/SAITO/DRA_ECHO/imgs/DRAcompression01.jpg)
+![針先で押しつぶされる前の遠位橈骨動脈](https://github.com/SSAITO-Atlas/Cardiology-Atlas/blob/master/SAITO/DRA_ECHO/imgs/DRAcompression01.jpg)
 
-![DRAcompression02](/Users/transradial/Documents/Cardiology-Atlas/SAITO/DRA_ECHO/imgs/DRAcompression02.jpg)
+![針先で押しつぶされた遠位橈骨動脈](https://github.com/SSAITO-Atlas/Cardiology-Atlas/blob/master/SAITO/DRA_ECHO/imgs/DRAcompression02.jpg))
 
 遠位橈骨動脈は非常に柔軟な動脈なので、容易に針先により押しつぶされるが、針先が動脈の中心を捉えていなければ、動脈の片側(この例では右側)がより圧迫されると共に、よく見ると針先の高輝度反射部分が動脈内腔より外れて見える。![DRAparaPunc](/Users/transradial/Documents/Cardiology-Atlas/SAITO/DRA_ECHO/imgs/DRAparaPunc.jpg)
