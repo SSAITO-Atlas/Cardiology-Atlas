@@ -2,10 +2,6 @@
 
 ## 湘南鎌倉総合病院循環器内科　齋藤　滋
 
- 
-
- <img src="https://github.com/SSAITO-Atlas/Cardiology-Atlas/blob/master/SAITO/DRA_ECHO/DRApuncture01.jpg" alt="DRApuncture01" style="zoom:50%;" />
-
 # はじめに-昔話から
 
 選択的冠動脈造影は、Sonesにより1955年に初めて行われ、虚血性心疾患の病態解明に大きく寄与し、その後の冠動脈バイパス手術に継がって行った。
@@ -31,6 +27,7 @@
 # DRAはCRAを超えて一般的になるか?　そして既にCRAが安全に広く普及している現状でDRAの普及は必要か?
 
 さて、ここで三文字アルファベット言葉の定義をしよう。”TRI”についてはTransRadial Interventionであり、私自身が提起し、世界中に広めてきた。”CRA”はConventional Radial Approachであり、穿刺部が手首関節より近位部で行われる手技(伝統的橈骨動脈アプローチ”のことである。そして、”DRA”は Distal Radial Approachであり、穿刺部が手首関節より遠位で行われる橈骨動脈アプローチを示し、日本語では遠位橈骨動脈アプローチと呼ばれる。この定義に従えば、当初Kiemeneijにより開始されたTRIはCRAであり、それに対して数年前からロシアあるいはイランで開始されたTRIはDRAということになる[5][6]。
+ <img src="https://github.com/SSAITO-Atlas/Cardiology-Atlas/blob/master/SAITO/DRA_ECHO/imgs/DRApuncture01.jpg" alt="DRApuncture01" style="zoom:50%;" />
 
 DRAを行う上での最大の障壁は、TRIが歩んできた道で辿ってきた歩みと重なる。
 
