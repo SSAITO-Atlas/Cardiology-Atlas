@@ -4,7 +4,7 @@
 
  
 
- <img src="/Users/transradial/Documents/Cardiology-Atlas/SAITO/DRA_ECHO/DRApuncture01.jpg" alt="DRApuncture01" style="zoom:50%;" />
+ <img src="https://github.com/SSAITO-Atlas/Cardiology-Atlas/blob/master/SAITO/DRA_ECHO/DRApuncture01.jpg" alt="DRApuncture01" style="zoom:50%;" />
 
 # はじめに-昔話から
 
