@@ -44,7 +44,7 @@
 
 
 
-![穿刺成功](https://github.com/SSAITO-Atlas/Cardiology-Atlas/blob/master/SAITO/DRA_ECHO/imgs/DRApuncture01.jpg遠位)
+![穿刺成功](https://github.com/SSAITO-Atlas/Cardiology-Atlas/blob/master/SAITO/DRA_ECHO/imgs/DRApuncture01.jpg)
 
 ![シースワイヤーは側枝に](https://github.com/SSAITO-Atlas/Cardiology-Atlas/blob/master/SAITO/DRA_ECHO/imgs/DRApuncture02.jpg)
 
